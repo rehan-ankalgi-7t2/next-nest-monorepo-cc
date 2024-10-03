@@ -39,7 +39,7 @@
       "options": {
         "targetName": "test"
       },
-      "exclude": ["backend-e2e/**/*"]
+      "exclude": ["backend-e2e/**/*", "apps/backend-e2e/**/*"]
     },
     {
       "plugin": "@nx/next/plugin",
